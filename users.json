@@ -1,0 +1,140 @@
+[
+  {
+    "2000": {
+      "Records": [
+        {
+          "Artist": "Santan ft Rob Thomas",
+          "Albumoftheyear": "Santana",
+          "Recordoftheyear": "Santana ft Rob Thomas Smooth",
+          "SongOftheYear": "Smooth"
+        }
+      ],
+      "BestArtist": [
+        {
+          "Artist": "Christina Aguilera"
+        }
+      ],
+      "BestPopFemale": [
+        {
+          "Artist": "Sarah McLachlan"
+        }
+      ],
+      "BestPopMale": [
+        {
+          "Artist": "Sting"
+        }
+      ],
+      "BestPopDuo": [
+        {
+          "Artist": "Santana"
+        }
+      ],
+      "BestPopInstrumental": [
+        {
+          "Artist": "Santana"
+        }
+      ],
+      "BestPopCollaboration": [
+        {
+          "Artist": "Santana featuring Rob Thomas"
+        }
+      ],
+      "BestPopVocalAlbum": [
+        {
+          "Artist": "Sting"
+        }
+      ],
+      "BestTraditionalPopVocal": [
+        {
+          "Artist": "Tony Bennett"
+        }
+      ],
+      "BestR&BFemale": [
+        {
+          "Artist": "Whitney Houston"
+        }
+      ],
+      "BestR&BMale": [
+        {
+          "Artist": "Barry White"
+        }
+      ],
+      "BestR&BDuo": [
+        {
+          "Artist": "TLC"
+        }
+      ],
+      "BestR&BSong": [
+        {
+          "Artist": "No Scrubs"
+        }
+      ],
+      "BestR&BAlbum": [
+        {
+          "Artist": "TLC"
+        }
+      ],
+      "BestTraditionalR&B": [
+        {
+          "Artist": "Barry White"
+        }
+      ],
+      "BestCountryVocalFemale": [
+        {
+          "Artist": "Shania Twain"
+        }
+      ],
+      "BestCountryVocalMale": [
+        {
+          "Artist": "George Jones"
+        }
+      ],
+      "BestCountryVocalDuo": [
+        {
+          "Artist": "Dixie Chicks"
+        }
+      ],
+      "BestCountryCollaboration": [
+        {
+          "Artist": "Emmylou Harris, Linda Ronstadt & Dolly Parton"
+        }
+      ],
+      "BestCountryAlbum": [
+        {
+          "Artist": "Dixie Chicks"
+        }
+      ],
+      "BestRockSong": [
+        {
+          "Artist": "Scar Tissue"
+        }
+      ]
+    },
+    "2001": {
+      "Records": [
+        {
+          "songTitle": "Walk On U2",
+          "Album": "O Brother, Where Art Thou? Soundtrack, Various Artists (Lost Highway Records)"
+        },
+        {
+          "songTitle": "Fallin",
+          "Artist": "Alicia keys",
+          "songwriter": "Alicia Keys",
+          "NewArtist": "Alicia Keys"
+        },
+        {
+          "songTitle": "I'm Like a Bird",
+          "Artist": "Nelly Furtado",
+          "songwriter": "",
+          "NewArtist": ""
+        }
+      ],
+      "MalePopVocal": [
+        {
+          "songTitle": "Don't Let Me Be Lonely Tonight",
+          "Artist": "James Taylor"
+        }
+      ]
+    }
+  }
+]
